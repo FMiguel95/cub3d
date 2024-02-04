@@ -1,0 +1,21 @@
+EA mandatory/textures/east2.xpm
+NO mandatory/textures/north1.xpm
+SO mandatory/textures/south1.xpm
+WE mandatory/textures/west1.xpm
+
+F 20,20,20
+C 200,200,
+
+11111
+10001
+10S01
+10001
+10001
+10001
+11001
+10001
+10001
+10001
+10001
+10001
+11111
